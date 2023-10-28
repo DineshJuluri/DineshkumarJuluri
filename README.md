@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Vision in Web Devlopment**
 
-- 👨‍💻 All of my projects are available at [https://dineshjuluri.siyaraa.in/](https://dineshjuluri.siyaraa.in/)
+- 👨‍💻 All of my projects are available at [https://dineshjuluri.siyaraa.com/](https://dineshjuluri.siyaraa.com/)
 
 - 💬 Ask me about **HTML, CSS, JS, React Js, Angular Js, Python and Node js**
 
